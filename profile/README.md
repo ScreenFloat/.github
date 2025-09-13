@@ -53,16 +53,16 @@ _Organizing screenshots in the Shots Browser_
 </div>
 
 
-* One-time purchase via Mac App Store / Eternal Storms website, 28-day free trial available. :contentReference[oaicite:0]{index=0}
+* One-time purchase via Mac App Store / Eternal Storms website, 28-day free trial available.
 
 ---
 
 ## ⚙️ System Requirements
 
-- macOS 12 (Monterey) or newer :contentReference[oaicite:1]{index=1}  
-- Intel & Apple Silicon Macs supported :contentReference[oaicite:2]{index=2}  
-- 4 GB RAM minimum, 8 GB recommended :contentReference[oaicite:3]{index=3}  
-- iCloud account for sync features (optional) :contentReference[oaicite:4]{index=4}  
+- macOS 12 (Monterey) or newer :contentReference
+- Intel & Apple Silicon Macs supported :contentReference
+- 4 GB RAM minimum, 8 GB recommended :contentReference
+- iCloud account for sync features (optional) :contentReference
 
 ---
 
@@ -89,16 +89,16 @@ _Organizing screenshots in the Shots Browser_
 ## ❓ FAQ
 
 **Q: Can ScreenFloat float screenshots above full-screen apps?**  
-A: Yes — floating shots stay visible across spaces and full-screen windows. :contentReference[oaicite:5]{index=5}  
+A: Yes — floating shots stay visible across spaces and full-screen windows.
 
 **Q: Is text detection supported?**  
-A: Yes — OCR, data detection for links, codes etc. :contentReference[oaicite:6]{index=6}  
+A: Yes — OCR, data detection for links, codes etc. :contentReference
 
 **Q: Does ScreenFloat record audio and system sound?**  
-A: Yes, screen recordings capture mic & system audio; pause, resume, trim time-based sections. :contentReference[oaicite:7]{index=7}  
+A: Yes, screen recordings capture mic & system audio; pause, resume, trim time-based sections.
 
 **Q: Apple Silicon support?**  
-A: Yes — optimized for both Intel & Apple Silicon Macs. :contentReference[oaicite:8]{index=8}  
+A: Yes — optimized for both Intel & Apple Silicon Macs. :contentReference
 
 ---
 
