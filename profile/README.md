@@ -1,7 +1,5 @@
 # 🪟 ScreenFloat for Mac — Floating Screenshots & Capture Hub
 
-![ScreenFloat Hero](https://eshop.macsales.com/blog/wp-content/uploads/2024/10/screen-saver-screenfloat-app-hero.png.png)
-
 ---
 
 ## 🧠 About ScreenFloat for Mac
